@@ -1,0 +1,9 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Zip archives
+*.zip
+
+# Eclipse workspace settings (optional)
+.settings/
